@@ -1,2 +1,2 @@
-# wifi-256
+# WiFi-256
 This is my first git Repository
